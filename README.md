@@ -48,6 +48,8 @@ Thanks for all the great contributors on GitHub!🔥⚡🔥
 * [Acknowledgements](#acknowledgements)
 
 # 📢 News
+- **[2024.05.21]**
+    - Paper: [SirLLM: Streaming Infinite Retentive LLM](https://arxiv.org/abs/2405.12528)
 
 - **[2024.05.17]**
     - Paper: [KG-RAG: Bridging the Gap Between Knowledge and Creativity](https://arxiv.org/abs/2405.12035)
